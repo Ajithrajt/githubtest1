@@ -1,0 +1,3 @@
+test3 file has been created
+hello
+how are you
